@@ -1,0 +1,396 @@
+13
+Company
+EMOTION_-_EVENTS_SAS_DI_BERND_SCHWIENBACHER_&_C.
+ORA
+0199333
+0000002711980215
+37622590
+feb-16_gen-16_dic-15_nov-15_ott-15_set-15_ago-15_lug-15_giu-15_mag-15_apr-15_mar-15
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+1
+0 4
+EMPTY Accordato AccordatoOperativo Utilizzato
+2
+Crediti_per_cassa 86.599 86.599 64.357
+Crediti_di_firma 2.700 2.700 2.700
+COOPERATIVO_SOC._COOP.
+1
+0 4
+EMPTY Accordato AccordatoOperativo Utilizzato
+1
+Crediti_per_cassa 30.000 30.000 29.892
+febbraio_2016
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 26.599 26.599 26.599 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 60.000 60.000 37.758 39.998 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 59.213
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 29.892 29.508 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 29.892
+gennaio_2016
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 27.626 27.626 27.626 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 40.054 37.344 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 62.223
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 30.009 27.658 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 30.009
+dicembre_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 28.646 28.646 28.646 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 60.000 60.000 44.193 35.386 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 67.071
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 27.480 27.039 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 27.480
+novembre_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 29.662 29.662 29.662 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 39.035 31.788 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 62.620
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 29.829 26.765 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 29.829
+ottobre_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 30.675 30.675 30.675 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 38.012 28.222 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 62.301
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 26.498 26.544 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 26.498
+settembre_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 31.683 31.683 31.683 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 26.985 31.504 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 51.975
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 29.491 25.371 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 29.491
+agosto_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 32.688 32.688 32.688 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 36.480 26.969 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 62.169
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 22.342 19.704 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 22.342
+luglio_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 33.688 33.688 33.688 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 32.223 10.473 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 58.608
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 21.490 23.749 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 21.490
+giugno_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 34.685 34.685 34.685 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 50 1.878 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 27.078
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 30.293 27.567 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 30.293
+maggio_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 35.678 35.678 35.678 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 2.869 10.556 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 30.629
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 28.788 25.630 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 28.788
+aprile_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 36.667 36.667 36.667 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 4.390 15.703 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 32.837
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 27.074 24.962 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 27.074
+marzo_2015
+2
+BANCA_POPOLARE_DELL'ALTO_ADIGE/VOLKBANK_SUDTIROLER
+4
+3 15
+Categoria Localizzazione DurataOriginaria DurataResidua Divisa ImportExport TipoAttivita StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_SCADENZA 58670 16 18 1 8 32 832 125 0 37.652 37.652 37.652 0 0
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 58670 1 8 832 125 0 40.000 40.000 30.337 34.297 0
+5 8
+Categoria Localizzazione Divisa ImportExport StatoRapporto Accordato AccordatoOperativo Utilizzato
+1
+GARANZIE_CONNESSE_CON_OPERAZIONI_DI_NATURA_COMMERCIALE 58670 1 8 902 2.700 2.700 2.700
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+Cointestazione_formata_da_MAYER_ROSA_MARIA,_SCHWIENBACHER_WERNER_(codice_censito_40365619) 110.110 59.436
+CASSA_RURALE_CENTROFIEMME-CAVALESE_-_BANCA_DI_CREDITO_COOPERATIVO_SOC._COOP.
+2
+4 12
+Categoria Localizzazione Divisa ImportExport StatoRapporto TipoGaranzia RuoloAffidato Accordato AccordatoOperativo Utilizzato SaldoMedio ImportoGarantito
+1
+RISCHI_A_REVOCA 34600 1 8 832 125 0 30.000 30.000 24.516 16.720 0
+6 3
+Garante ValoreGaranzia ImportoGarantito
+1
+IORI_MIKE_(codice_censito_36779119) 42.000 24.516
+3
+VARIABILI Codice Descrizione
+11
+Divisa 1 EURO_E_VALUTE_NAZIONALI_DEI_PAESI_UME
+Durata_Originaria 16 DA_OLTRE_UN_ANNO_FINO_A_CINQUE_ANNI
+Durata_Residua 18 OLTRE_1_ANNO
+Import/export 8 OPERAZIONI_DIVERSE_DA_IMPORT_E_EXPORT
+Localizzazione 34600 CAVALESE
+Localizzazione 58670 ORA
+Stato_Rapporto 832 RAPP_NON_CONTESTATI-_CREDITI_DIVERSI_DA_RISTRUTTURATI,_SCADUTI_E_SCONFINANTI
+Stato_Rapporto 832 RAPP_NON_CONTESTATI-_CREDITI_DIVERSI_DA_SCADUTI_E_SCONFINANTI
+Stato_Rapporto 902 RAPPORTI_NON_CONTESTATI
+Tipo_Attività 32 RISCHI_A_SCAD._DIVERSI_DAI_CODICI_(22,23,24,25,26,28)
+Tipo_Garanzia 125 ASSENZA_DI_GARANZIE_REALI_E/O_PRIVILEGI
